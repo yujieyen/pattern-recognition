@@ -16,3 +16,5 @@
 ## class06
 ### hw0
 * Gamma function
+### small text
+* Summation
