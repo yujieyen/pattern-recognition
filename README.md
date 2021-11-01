@@ -13,3 +13,6 @@
   * Case study 3: Jacobians for nonlinear least squares  
 ### hw1
 * 繪製2D 3D圖形
+## class06
+### hw0
+* Gamma function
