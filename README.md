@@ -18,3 +18,5 @@
 * Gamma function
 ### small text
 * Summation
+### class07
+* Financial analysis
