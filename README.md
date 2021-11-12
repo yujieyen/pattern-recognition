@@ -1,8 +1,22 @@
 # pattern-recognition
 這裡存放學校的作業內容以及project  
 ## class01  
+### hw0 
+* 基本運算
+### hw1
+* Linear Algebra
 ## class02  
-## class03  
+### hw0
+* variables system of linear equations
+### hw1
+* LU
+## class03 
+### hw0
+* vectors
+### hw1
+* LU
+### hw2
+* LU
 ## class04  
 ## class05
 ### hw0
